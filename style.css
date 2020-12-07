@@ -55,3 +55,18 @@ padding: 25px;
   border-radius: 14%;
   display: inline-block;
 }
+
+.contactMe {
+	background-color: rgba(24,24,24,0.68);
+}
+
+.forma > input, textarea {
+	background-color: rgba(24,24,24,0.68);
+	border:0.021em solid white;
+	width:100%;
+}
+
+.forma > input {
+	margin-bottom: 2em;
+	height:5rem;
+}
