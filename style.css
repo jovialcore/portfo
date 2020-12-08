@@ -110,7 +110,7 @@ padding: 15px;
   .contact > div  > div {
   	color:#FA9B03;
   	margin-left: 3em;
-  		font-size:17px;
+  		font-size:16px;
 
   }
 
@@ -122,10 +122,10 @@ padding: 15px;
   display: inline-block;
   font-size:23px;
 }
-footer {
+.footer {
 	background-color: #181818;
 	height: 30px;
 	color:white;
-	text-align:center;
+	text-align:center!important;
 
 }
