@@ -96,5 +96,20 @@ padding: 15px;
  	border-radius: 100px; 
  	width:45px; 
  	height: 45px; 
- 	border:3px solid #FA9B03;
+ 	border:2px solid #FA9B03;
  }
+
+  .contact > div  > span {
+  	color:white;
+  	margin-left: 0.4rem;
+  	font-size:18px;
+  }
+
+  
+
+  .contact > div  > div {
+  	color:#FA9B03;
+  	margin-left: 4em;
+  		font-size:17px;
+
+  }
