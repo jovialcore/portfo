@@ -1,6 +1,9 @@
 body {
 	background-color: #0E0E0E!important;
 }
+.bg-darker {
+	background-color: #000000!important;
+}
 .btn-warning {
 	background: #FA9B03!important;
 	border:none!important;
@@ -42,6 +45,9 @@ body {
 	margin-top: 4em;
 }
 
+.aboutMe {
+	 background-color: rgba(24,24,24,0.68);
+}
 .reviewnum {
  background: #FA9B03;
 padding: 15px;
@@ -75,5 +81,6 @@ padding: 15px;
 .forma >  textarea {
  
  height:9.5rem;
-	
+ padding-left: 30px;
+ padding-top: 30px;	
  }
