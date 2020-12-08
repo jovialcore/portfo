@@ -88,3 +88,13 @@ padding: 15px;
  .otherCont {
  	font-size:19px;
  }
+
+
+ .contact > div > i {
+ 	color: white; 
+ 	font-size: 20px; 
+ 	border-radius: 100px; 
+ 	width:45px; 
+ 	height: 45px; 
+ 	border:3px solid #FA9B03;
+ }
