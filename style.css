@@ -94,8 +94,8 @@ padding: 15px;
  	color: white; 
  	font-size: 20px; 
  	border-radius: 100px; 
- 	width:45px; 
- 	height: 45px; 
+ 	width:40px; 
+ 	height: 40px; 
  	border:2px solid #FA9B03;
  }
 
@@ -109,7 +109,7 @@ padding: 15px;
 
   .contact > div  > div {
   	color:#FA9B03;
-  	margin-left: 4em;
+  	margin-left: 3em;
   		font-size:17px;
 
   }
