@@ -124,8 +124,9 @@ padding: 15px;
 }
 .footer {
 	background-color: #181818;
-	height: 30px;
 	color:white;
 	text-align:center!important;
+	padding-bottom:20px;
+	padding-top: 20px;
 
 }
